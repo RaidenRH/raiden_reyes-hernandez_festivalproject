@@ -5,7 +5,7 @@ DES228 Project 2
 
 By Raiden Reyes-Hernandez
 
-Currently hosted at:
+Currently hosted at: https://github.com/RaidenRH/raiden_reyes-hernandez_festivalproject.git
 # project overview
 Harvest change! The United Harvest Festival is an experience you shouldn't miss. Your experience is important and supports those in the UFW. The United Farm workers of America are the hardest working people in this country and yet still are not treated fairly for the work that they do. United Harvest is a celebration of the people who work so hard to bring fresh food to families on a daily basis. 
 
