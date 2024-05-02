@@ -23,3 +23,7 @@ https://fonts.google.com/specimen/Yellowtail?query=yellowtail
 
 oswald
 https://fonts.google.com/specimen/Oswald?query=oswald
+
+# branding guide
+Branding link:https://drive.google.com/drive/folders/1waNVDzxTn8jqw70_hWpxkXXA_YShvOca?usp=drive_link
+
