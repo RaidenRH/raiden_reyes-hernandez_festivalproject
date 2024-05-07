@@ -2,21 +2,29 @@
 
 body {background-color:#f0edd8;}
 
-nav {background-color:#f0edd8;
-color: #a32714;
-font-family: "Oswald", sans-serif;
-display: flex;
-align-items: center;
-font-size: 100pt;
-flex-direction:row;
-text-align: center;
-justify-content: space-evenly;}
-
 .one {font-family: "Yellowtail", cursive;
+display: flex;
+font-size: 200pt;
+flex-direction: row;
+text-align: center;
+justify-content: center;
+}
+
+#two {font-family: "Oswald", sans-serif;
 display: flex;
 font-size: 125pt;
 flex-direction: row;
 text-align: center;
-justify-content: center;}
+justify-content: center;
+color: #a32714;
+}
+
+img {
+    display: block;
+    width: 60%;
+    margin: auto;
+    padding-top: 0%;
+    padding-left: 0%;
+}
 
 
