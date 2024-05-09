@@ -4,10 +4,12 @@ body {background-color:#f0edd8;}
 
 .one {font-family: "Yellowtail", cursive;
 display: flex;
-font-size: 200pt;
+font-size: 285pt;
 flex-direction: row;
 text-align: center;
 justify-content: center;
+margin-top: -35%;
+padding-right: 9%;
 }
 
 #two {font-family: "Oswald", sans-serif;
@@ -17,6 +19,8 @@ flex-direction: row;
 text-align: center;
 justify-content: center;
 color: #a32714;
+position:relative;
+margin-top: -12%;
 }
 
 img {
