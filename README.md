@@ -7,7 +7,7 @@ By Raiden Reyes-Hernandez
 
 Currently hosted at: https://github.com/RaidenRH/raiden_reyes-hernandez_festivalproject.git
 # project overview
-Uninte to harvest change! The United Harvest Festival, an experience you cant miss. Your experience is important and supports a good cause. The United Farm workers of America, these are the hardest working people in this country and yet still are not treated fairly for the work that they do. United Harvest is a celebration of the people who work so hard to bring fresh food to families on a daily basis. 
+Uninte to harvest change! United Harvest Festival, a Three-day experience you cant miss. Your time here is important and supports a good cause. The United Farm workers of America, these are the hardest working people in this country and yet are still not treated fairly for the work that they do. United Harvest is a celebration of the people who work incredibly hard to bring families fresh foods on a daily basis. 
 
 This three day event kicks off with an opening ceremony with speeches from union leaders, university officials, and community representatives. There are cultural performances, including music, dance, and art exhibitions. The event closes out day one with a Unity dinner featuring foods from various cultures, prepared by local chefs and farmers.
 

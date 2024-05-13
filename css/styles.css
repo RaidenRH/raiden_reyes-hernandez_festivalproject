@@ -20,7 +20,7 @@ text-align: center;
 justify-content: center;
 color: #a32714;
 position:relative;
-margin-top: -12%;
+margin-top: -13%;
 }
 
 img {
@@ -31,4 +31,36 @@ img {
     padding-left: 0%;
 }
 
+.navbar {background-color: #a32714;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+li {font-family: "Oswald", sans-serif;
+    color:#ffffff;
+    display:inline;
+   margin:9%;
+   justify-content:space-evenly;
+   font-size: 25pt;
+   text-decoration: none
+}
+
+
+h1 {font-family: "Yellowtail", cursive;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    font-size: 85pt;
+}
+
+p {font-family: "Oswald", sans-serif;
+    margin: 17pt;
+    font-size: 20pt;
+
+}
 
