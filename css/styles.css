@@ -1,6 +1,9 @@
-* {margin: 0%;padding: 0%;}
+* {margin: 0%;padding: 0%;
+}
 
-body {background-color:#f0edd8;}
+body {background-color:#f0edd8;
+}
+
 
 .one {font-family: "Yellowtail", cursive;
 display: flex;
@@ -10,6 +13,7 @@ text-align: center;
 justify-content: center;
 margin-top: -35%;
 padding-right: 9%;
+height: 100dvh;
 }
 
 #two {font-family: "Oswald", sans-serif;
@@ -63,4 +67,14 @@ p {font-family: "Oswald", sans-serif;
     font-size: 20pt;
 
 }
+h2 {font-family: "Oswald", sans-serif;
+    font-size: 45pt;
+    margin: 10%;
 
+}
+
+h3 {font-family: "Oswald", sans-serif;
+    margin: 10pt;
+font-size:20pt ;
+display: flex;
+margin-left:25pt ;}
