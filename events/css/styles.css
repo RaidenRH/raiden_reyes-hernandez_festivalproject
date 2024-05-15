@@ -59,10 +59,12 @@ li {font-family: "Oswald", sans-serif;
 
 h1 {font-family: "Yellowtail", cursive;
     display: flex;
-    flex-direction: row;
-    text-align: center;
-    justify-content: center;
+    flex-direction:row;
+    text-align:start;
+    justify-content:baseline;
     font-size: 85pt;
+    margin-top: 10%;
+    margin-left: 7%;
 }
 
 p {font-family: "Oswald", sans-serif;

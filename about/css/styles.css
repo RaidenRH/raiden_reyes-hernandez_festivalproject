@@ -11,27 +11,17 @@ font-size: 270pt;
 flex-direction: row;
 text-align: center;
 justify-content: center;
-margin-top: -30%;
+margin-top: -28%;
 padding-right: 9%;
 
 }
 
-#two {font-family: "Oswald", sans-serif;
-display: flex;
-font-size: 117pt;
-flex-direction: row;
-text-align: center;
-justify-content: center;
-color: #a32714;
-position:relative;
-margin-top: -12%;
-}
 
 img {
     display: block;
     width: 50%;
     margin: auto;
-    padding-top: 0%;
+    padding-top: 2%;
     padding-left: 0%;
 }
 
@@ -43,8 +33,6 @@ img {
     text-decoration: none;
     color: #ffffff;
 }
-
-
 
 
 li {font-family: "Oswald", sans-serif;
@@ -81,3 +69,39 @@ h3 {font-family: "Oswald", sans-serif;
 font-size:20pt ;
 display: flex;
 margin-left:25pt ;}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: normal;
+    align-content: normal;
+    font-family: "Oswald", sans-serif;
+    font-size:20pt ;
+    margin-left:25pt;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+  }
+
+  .flex-box {
+    background-color: #f0edd8;
+    width: 900px;
+    height:400px ;
+    text-align: center;
+    line-height: 80px;
+    box-shadow: 5px 3px 2px 0px rgba(190, 187, 171, 1),
+            1px 6px 20px 14px rgba(151, 149, 136, 0.41);
+            border-radius: 20px;
+    padding-top: 0%;        
+  }
+ 
+  .flex-items:nth-child(1) {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+  }
