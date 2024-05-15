@@ -1,0 +1,171 @@
+* {margin: 0%;padding: 0%;
+}
+
+body {background-color:#f0edd8;
+}
+
+
+.one {font-family: "Yellowtail", cursive;
+display: flex;
+font-size: 270pt;
+flex-direction: row;
+text-align: center;
+justify-content: center;
+margin-top: -30%;
+padding-right: 9%;
+
+}
+
+#two {font-family: "Oswald", sans-serif;
+display: flex;
+font-size: 117pt;
+flex-direction: row;
+text-align: center;
+justify-content: center;
+color: #a32714;
+position:relative;
+margin-top: -12%;
+}
+
+img {
+    display: block;
+    width: 50%;
+    margin: auto;
+    padding-top: 0%;
+    padding-left: 0%;
+
+}
+
+
+.tickets img {
+    display: block;
+    width: 60%;
+    margin: auto;
+    padding-top: -2%;
+    padding-left: 0%;
+    border-radius: 16pt;
+    box-shadow: 5px 3px 2px 0px rgba(190, 187, 171, 1),
+            1px 6px 20px 14px rgba(151, 149, 136, 0.41);
+    margin-top: 5%;
+}
+
+
+.navbar {background-color: #a32714;
+    margin-top: -2%;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #ffffff;
+
+}
+
+a:hover {
+    color: black;
+}
+
+
+
+
+li {font-family: "Oswald", sans-serif;
+    color:#ffffff;
+    display:inline;
+   margin:9%;
+   justify-content:space-evenly;
+   font-size: 25pt;
+   text-decoration: none
+}
+
+
+h1 {font-family: "Yellowtail", cursive;
+    display: flex;
+    flex-direction:row;
+    text-align:start;
+    justify-content:baseline;
+    font-size: 85pt;
+    margin-top: 10%;
+    margin-left: 8%;
+}
+
+p { font-family: "Yellowtail", cursive;
+    margin: 12pt;
+    font-size: 20pt;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size:200%;
+
+}
+h2 {font-family: "Yellowtail", cursive;
+    display: flex;
+    flex-direction:row;
+    text-align:start;
+    justify-content:baseline;
+    font-size: 85pt;
+    margin-top: 3%;
+    margin-left: 8%;
+
+}
+
+h3 {font-family: "Oswald", sans-serif;
+    margin: 10pt;
+font-size:20pt ;
+display: flex;
+margin-left:25pt ;}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content:flex-end;
+    align-items: normal;
+    align-content: normal;
+    font-family: "Oswald", sans-serif;
+    font-size:20pt ;
+    margin-right:29pt;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+  }
+
+
+
+.flex-box {
+    font-family: "Oswald", sans-serif;
+    background-color: #f0edd8;
+    width: 900px;
+    height:345px ;
+    text-align: center;
+    line-height: 60px;
+    box-shadow: 5px 3px 2px 0px rgba(190, 187, 171, 1),
+            1px 6px 20px 14px rgba(151, 149, 136, 0.41);
+            border-radius: 20px;
+    padding-top: 0%;
+    padding-bottom: 1%;
+    margin: 1%;        
+  }
+ 
+  .flex-items:nth-child(1) {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+  }
+
+  
+  .tickets {
+    padding: 50px;
+    transition: transform .2s;
+    width: 800px;
+    height: 900px;
+    margin: 0 auto;
+    margin-top: 15%;
+  }
+  
+  .tickets:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+  }

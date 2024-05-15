@@ -44,7 +44,9 @@ img {
     color: #ffffff;
 }
 
-
+a:hover {
+    color: black;
+}
 
 
 li {font-family: "Oswald", sans-serif;

@@ -33,6 +33,40 @@ img {
     margin: auto;
     padding-top: 0%;
     padding-left: 0%;
+
+}
+
+.market img {display: block;
+    width: 55%;
+    margin: auto;
+    padding-top: -2%;
+    padding-left: 0%;
+    border-radius: 16pt;
+    box-shadow: 5px 3px 2px 0px rgba(190, 187, 171, 1),
+            1px 6px 20px 14px rgba(151, 149, 136, 0.41);
+}
+
+.film img {
+    display: block;
+    width: 45%;
+    margin: auto;
+    padding-top: -2%;
+    padding-left: 0%;
+    border-radius: 16pt;
+    box-shadow: 5px 3px 2px 0px rgba(190, 187, 171, 1),
+            1px 6px 20px 14px rgba(151, 149, 136, 0.41);
+}
+
+.dance img {
+    display: block;
+    width: 45%;
+    margin: auto;
+    padding-top: -2%;
+    padding-left: 0%;
+    border-radius: 16pt;
+    box-shadow: 5px 3px 2px 0px rgba(190, 187, 171, 1),
+            1px 6px 20px 14px rgba(151, 149, 136, 0.41);
+
 }
 
 .navbar {background-color: #a32714;
@@ -42,6 +76,10 @@ img {
 .navbar a {
     text-decoration: none;
     color: #ffffff;
+}
+
+a:hover {
+    color: black;
 }
 
 
@@ -64,7 +102,7 @@ h1 {font-family: "Yellowtail", cursive;
     justify-content:baseline;
     font-size: 85pt;
     margin-top: 10%;
-    margin-left: 7%;
+    margin-left: 8%;
 }
 
 p {font-family: "Oswald", sans-serif;
@@ -72,9 +110,14 @@ p {font-family: "Oswald", sans-serif;
     font-size: 20pt;
 
 }
-h2 {font-family: "Oswald", sans-serif;
-    font-size: 45pt;
-    margin: 10%;
+h2 {font-family: "Yellowtail", cursive;
+    display: flex;
+    flex-direction:row;
+    text-align:start;
+    justify-content:baseline;
+    font-size: 85pt;
+    margin-top: 3%;
+    margin-left: 8%;
 
 }
 
@@ -83,3 +126,44 @@ h3 {font-family: "Oswald", sans-serif;
 font-size:20pt ;
 display: flex;
 margin-left:25pt ;}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content:flex-end;
+    align-items: normal;
+    align-content: normal;
+    font-family: "Oswald", sans-serif;
+    font-size:20pt ;
+    margin-right:29pt;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+  }
+
+
+
+.flex-box {
+    font-family: "Oswald", sans-serif;
+    background-color: #f0edd8;
+    width: 900px;
+    height:345px ;
+    text-align: center;
+    line-height: 60px;
+    box-shadow: 5px 3px 2px 0px rgba(190, 187, 171, 1),
+            1px 6px 20px 14px rgba(151, 149, 136, 0.41);
+            border-radius: 20px;
+    padding-top: 0%;
+    padding-bottom: 1%;
+    margin: 1%;        
+  }
+ 
+  .flex-items:nth-child(1) {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+  }
